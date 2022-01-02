@@ -76,3 +76,11 @@
 - Everything needs to be in memory
 - testable (UT, APIs)
 - clean code
+
+### How to improve your programming/code ?
+- Unless, you code!
+- get your code reviewed
+
+### Communities
+- Reddit
+- Discord (Scaler)
