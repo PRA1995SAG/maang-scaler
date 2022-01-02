@@ -39,3 +39,20 @@
 - leet code (if your interview scheduled 2 weeks ahead) (go for premium)
 - geeks4geeks
 - Scaler
+
+### System Design
+- Not required for SDE 1
+
+*SALARIES (INDIA) (enclusive of stock)*
+
+> SDE 1
+- 30 to 40 LPA (enclusive of stock)
+
+> SDE 2
+- 50 to 1 cr
+- [expetation] leaderboard, tiny URL, google typeahead, microservices
+
+> SDE 3
+- 1 to 2.5 cr
+- [expetation] design whatsApp, Instagram, facebook feed, twitter, uber, notification
+- Identify most businessfull areas
