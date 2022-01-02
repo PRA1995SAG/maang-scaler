@@ -84,3 +84,52 @@
 ### Communities
 - Reddit
 - Discord (Scaler)
+
+### clean coding resources
+- clean code (book) (uncle bob)
+- youtube.com/udemy
+
+### Success stories
+- [https://www.scaler.com/blog/tag/scaler-academy-experience/](https://www.scaler.com/blog/tag/scaler-academy-experience/)
+
+
+### How do you apply ?
+1. consultants: Naukari
+2. company HR - instatyre, top hire, hackathons, interviewbit
+3. Networking - scaler (discord, peer), Reddit, refermeplease.com
+4. LinkedIn (who you are, what you want, why should they do it)
+
+### Resume
+- Deedy Resume latex
+- prefer .pdf format
+
+### Interveiw
+- top startup in UK
+- LinkedIn
+
+### Europe
+- Germany: Zalando, Delivery thero
+
+check these things
+- cost of living,
+- taxation
+- Numbeo
+- Visa ? (no worries, unless US)
+
+> tax
+- 45% on base
+- 50% on stocks
+- you can expect 60 K - 80 K / annum (in GBP) [SDE 1]
+- you can expect 75 K - 100 K / annum (in GBP) [SDE 2]
+- you can expect 90 K - 120 K / annum (in GBP) [SDE 2]
+
+
+> WHAT IS distinguish engineer ?
+
+### coding languages (Mohit yadav)
+- python, hack, php, java
+
+### motivation (Mohit yadav)
+- naveen garg (1 month?)
+- cormen (1/2 weeks)
+- leetcode (15 days)
