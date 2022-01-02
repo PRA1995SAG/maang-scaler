@@ -31,7 +31,7 @@
 *THEORY*
 - [naveen garg youtube - IIT Delhi](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F)
 - mit.ocw // MIT (Intro to DS & Algo)
-- cormen
+- [cormen](https://www.amazon.com/Data-Structures-Thomas-H-Cormen-Algorithms/s?rh=n%3A132570011%2Cp_lbr_one_browse-bin%3AThomas+H.+Cormen)
 
 *PRACTICE QUESTIONS*
 - Interview bit
