@@ -56,3 +56,23 @@
 - 1 to 2.5 cr
 - [expetation] design whatsApp, Instagram, facebook feed, twitter, uber, notification
 - Identify most businessfull areas
+
+### System Design Resources
+> beginner to intermediate
+- educative.io (growing system design)
+- gourav sen (youtube)
+- Master classes (Scaler)
+- microservice.io (to learn about microservices)
+
+> Intermediate to advance
+- highscalibility.com
+- Tech blogs: Netflix, FB, Google
+
+
+### Machine Coding
+- lot of popularity in europe IT companies
+- flipkart, udaan, swiggy ask for it.
+- you cannot use framework, database/cache
+- Everything needs to be in memory
+- testable (UT, APIs)
+- clean code
