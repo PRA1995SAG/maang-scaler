@@ -29,7 +29,7 @@
 
 
 *THEORY*
-- naveen garg youtube - IIT Delhi
+- [naveen garg youtube - IIT Delhi](https://www.youtube.com/playlist?list=PLBF3763AF2E1C572F)
 - mit.ocw // MIT (Intro to DS & Algo)
 - cormen
 
